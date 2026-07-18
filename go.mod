@@ -1,3 +1,3 @@
 module test_actions
 
-go 1.24.0
+go 1.20
